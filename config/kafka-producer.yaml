@@ -1,0 +1,7 @@
+broker_list: "localhost:9093,localhost:9095,localhost:9095"
+topic: "kafka_topic"
+client_id: "Kafka-test-id"
+partitioner: "random"
+partition: 0
+compression_type: "compression_none"
+verbose: true

@@ -1,0 +1,6 @@
+broker_list: "localhost:9093,localhost:9095,localhost:9095"
+topic: "kafka_topic"
+partitions: "all"
+offset: "newest"
+buffer_size: 256
+verbose: true
